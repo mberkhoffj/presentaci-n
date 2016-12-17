@@ -7,7 +7,7 @@ Pueden ver mis aportes en Github en cada uno de los Link de las listas de abajo.
 
 --------------------------------------
 
- *Si te preguntan tus amigos - ¿Por qué te va tan bien ? respondeles la verdad - Porque te levantas a las 6 AM todos los días, no a sido fácil es constancia, amor y dedicación al aprender día a día* :smile:
+ *Si te preguntan tus amigos - ¿Por qué te va tan bien ? preguntale a qué hora te levantas? -a las 11:00 AM -Ahí tienes tu respuesta* :smile:
 
 
 ### Temas en estudio
