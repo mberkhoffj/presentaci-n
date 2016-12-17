@@ -3,6 +3,7 @@
 Me presento mi nombre es **Martin Berkhoff Jerez**
  soy *Analista Programador*, freelancer de corazón y convencido de que el aprendizaje `autodidacta` es la clave de éxito.
 
+Pueden ver mis aportes en Github por 
 
 --------------------------------------
 
@@ -27,6 +28,7 @@ Me presento mi nombre es **Martin Berkhoff Jerez**
 - NodeJS.
 - HTML5.
 - PS (intermedio).
+- Git [ir al repo ](https://github.com/martin281992/-Github-practice "click ")
 
 ------------------------------------------
 
@@ -61,4 +63,3 @@ Podrán ver el contenido aprendido en cada uno de los cursos de desarrollo en lo
 
 [Pueden visitar mi linkedin para saber más de mi](https://cl.linkedin.com/in/martin-francisco-berkhoff-jerez-7b792311a
   "click me baby")
-  
