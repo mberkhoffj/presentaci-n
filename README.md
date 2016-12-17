@@ -3,7 +3,7 @@
 Me presento mi nombre es **Martin Berkhoff Jerez**
  soy *Analista Programador*, freelancer de corazón y convencido de que el aprendizaje `autodidacta` es la clave de éxito.
 
-Pueden ver mis aportes en Github por 
+Pueden ver mis aportes en Github en cada uno de los Link de las listas de abajo.
 
 --------------------------------------
 
@@ -55,9 +55,9 @@ Como pueden ver soy un amante del lenguaje JS es6, practica a diario para hacer 
 
 ### Experiencia 
 
-En el contenido de este `Github` podrán ver la experiencia que tengo en las diferentes áreas que comprede un  Full Stack Development abarcando la mayor cantidad de contenido posible y asi exponer mi conocimiento en las ramas de la materia, desde ejemplos básicos hasta ejemplos más avanzados.
+En el contenido de este `Github` podrán ver mi experiencia en las diferentes áreas que comprede un desarrollador Full Stack Development, abarcando la mayor cantidad de contenido posible exponiendo conocimiento en las diversas ramas de la materia desde ejemplos básicos hasta otros más avanzados.
 
-Podrán ver el contenido aprendido en cada uno de los cursos de desarrollo en los que eh participado, desde nodeJS desde 0 en escuela digital más todos los cursos de nodeJS de udemy para el back-end hasta desarrollo web front-end utilizando herramientas de procesamiento como gulp, maquetación de páginas web responsive con sass, mixins y utilización de frameworks como reactJS y vue2.
+Podrán ver el contenido aprendido en cada uno de los cursos de desarrollo en los que eh participado, desde nodeJS desde 0 en escuela digital más todos los cursos de nodeJS de udemy hasta el desarrollo web front-end utilizando herramientas de procesamiento como gulp, maquetación de páginas web responsive con sass, mixins y utilización de frameworks como reactJS y vue2.
 
 
 
