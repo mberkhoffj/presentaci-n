@@ -28,7 +28,7 @@ Pueden ver mis aportes en Github por
 - NodeJS.
 - HTML5.
 - PS (intermedio).
-- Git [ir al repo ](https://github.com/martin281992/-Github-practice "click ")
+- Git **[ir al repo ](https://github.com/martin281992/-Github-practice "click ")** 
 
 ------------------------------------------
 
