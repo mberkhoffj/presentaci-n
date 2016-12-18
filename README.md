@@ -21,7 +21,6 @@ Pueden ver mis aportes en Github en cada uno de los Link de las listas de abajo.
 
 ### Temas dominados 
 
-- Git.
 - CSS.
 - SASS.
 - NPM.
