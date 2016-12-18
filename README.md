@@ -52,11 +52,11 @@ haveFun.speak("La vida es ")
 Como pueden ver soy un amante del lenguaje JS es6, practica a diario para hacer poesía con javascript. :heart:
 
 
-### Experiencia 
+### Experiencia e informaciones
 
 En el contenido de este `Github` podrán ver mi experiencia en las diferentes áreas que comprede un desarrollador Full Stack Development, abarcando la mayor cantidad de contenido posible exponiendo conocimiento en las diversas ramas de la materia desde ejemplos básicos hasta otros más avanzados.
 
-Podrán ver el contenido aprendido en cada uno de los cursos de desarrollo en los que eh participado, desde nodeJS desde 0 en escuela digital más todos los cursos de nodeJS de udemy hasta el desarrollo web front-end utilizando herramientas de procesamiento como gulp, maquetación de páginas web responsive con sass, mixins y utilización de frameworks como reactJS y vue2.
+Podrán ver el contenido aprendido en cada uno de los cursos de desarrollo en los que eh participado. Expondre en pequeños tutoriales de la manera más legible sobre lo que eh aprendido en los cursos. Compartiré ejemplos de nodeJS para el back-end de sus aplicaciones como también mostraré las herramientas que utilizo para codear y desarrollar en el front-end como por ejemplo: gulp, maquetación de páginas web responsive con sass, mixins y la utilización de uno que otro framework como reactJS y Vue 2.
 
 
 
